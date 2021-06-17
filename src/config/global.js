@@ -157,134 +157,253 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Celestecielo, G. (2018). Puntadas a mano. El Rincón De Celestecielo.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://elrincondecelestecielo.blogspot.com/2018/11/puntadas-mano.html',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Delego, D. (1983). Elegantisima la enciclopedia práctica de la moda de Donato Delego. Donato Delego.',
+    },
+    {
+      referencia: 'De Duarte, N. (1983). Conocimientos básicos de corte. SENA.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://repositorio.sena.edu.co/bitstream/handle/11404/1432/conocimientos.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Flo. (2020). Un blazer inspirado en Balmain – Parte 1. Copycat.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://thecopycat.blog/2020/07/10/un-blazer-inspirado-en-balmain-parte-1/',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Gutiérrez, L., Moncayo, A., Tanaka, K., Kimura, F. y Moreno, D. (2011). Manual de patronaje básico e interpretación de diseños. SENA y JICA.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
+    },
+    {
+      referencia: 'Hymsa. (1991). Corte confección y sastrería.',
+    },
+    {
+      referencia: 'Kinderley. (2005). Manual completo de costura.',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'López, J. [Puntadas Country]. (2020, 16 junio). 11 puntadas a mano básicas!!! 🤩 Puntadas básicas para bordar a mano [Vídeo]. YouTube.',
+      link: 'https://youtu.be/d-8rJrzXRIQ',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Luis, N. (2017). Con los pantalones bien puestos: 36 veces que una mujer nos inspiró llevando un traje sastre | Actualidad, Moda. S Moda EL PAÍS.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://smoda.elpais.com/moda/traje-sastre-esmoquin-iconicos-historia/',
+    },
+    {
+      referencia:
+        'Manos Maravillosas. (2019). Costura. 10 tipos de puntadas a mano.',
+      link:
+        'https://manosmaravillosas.com/2019/09/11/costura-tipos-de-puntadas-a-mano/',
+    },
+    {
+      referencia:
+        'Momita. (2018). Cómo cortar tela con cutter y base de corte. Momita’s blog.',
+      link: 'http://momitablog.com/como-cortar-cutter-base-corte/',
+    },
+    {
+      referencia:
+        'Ooobop! London. (2011). Butterick 5007: Men’s vintage western shirt – progress update. Ooobop!',
+      link: 'https://ooobop.wordpress.com/2011/08/',
+    },
+    {
+      referencia:
+        'SENA. (2020a, septiembre 7). Introducción trazo y corte [Vídeo]. YouTube.',
+      link: 'https://youtu.be/lPY6Ffc509c',
+    },
+    {
+      referencia:
+        'SENA. (2020b, septiembre 7). Proceso de extendido [Vídeo]. YouTube.',
+      link: 'https://youtu.be/Mnnt4AAnKJQ',
+    },
+    {
+      referencia:
+        'SENA. (2020c, septiembre 9). Características del material desde trazo y corte [Vídeo]. YouTube.',
+      link: 'https://youtu.be/OfsjJ8VdU8A',
+    },
+    {
+      referencia:
+        'SENA. (2020d, 29 diciembre). Abrigo asimétrico [Vídeo]. YouTube.',
+      link: 'https://youtu.be/-t2RPXBUsLA',
+    },
+    {
+      referencia:
+        'SENA. (2020e, diciembre 29). Análisis e interpretación de pantalón sudadera [Vídeo]. YouTube.',
+      link: 'https://youtu.be/xcUi9S-ZqzI',
+    },
+    {
+      referencia:
+        'SENA. (2020f, diciembre 29). Chaqueta cuello alto traslados de pinza [Vídeo]. YouTube.',
+      link: 'https://youtu.be/yKwVapWExPo',
+    },
+    {
+      referencia:
+        'SENA. (2020g, diciembre 29). Despiece chaqueta sastre femenina [Vídeo]. YouTube.',
+      link: 'https://youtu.be/AK2wuIOJLXI',
+    },
+    {
+      referencia:
+        'SENA. (2020h, diciembre 29). Generalidades de pantalón sastre masculino interpretación [Vídeo]. YouTube.',
+      link: 'https://youtu.be/be_WSq_gwFo',
+    },
+    {
+      referencia:
+        'SENA. (2020i, diciembre 29). Interpretación de chaqueta bomber [Vídeo]. YouTube.',
+      link: 'https://youtu.be/A8DwMHDCWXk',
+    },
+    {
+      referencia:
+        'SENA. (2020j, diciembre 29). Interpretación de pantalón sastre femenino [Vídeo]. YouTube.',
+      link: 'https://youtu.be/8d20OBO4tHI',
+    },
+    {
+      referencia:
+        'SENA. (2020k, diciembre 29). Trazo de chaqueta sastre masculina [Vídeo]. YouTube.',
+      link: 'https://youtu.be/ervMRxzneGY',
+    },
+    {
+      referencia:
+        'SENA. (2020l, diciembre 29). Trazo manga chaqueta sastre femenina [Vídeo]. YouTube.',
+      link: 'https://youtu.be/xD5YtPY_GCw',
+    },
+    {
+      referencia:
+        'SENA. (2020m, diciembre 29). Análisis e interpretación de capas [Vídeo]. YouTube.',
+      link: 'https://youtu.be/ZbGipLzdDTY',
+    },
+    {
+      referencia:
+        'SENA. (2021a, 9 febrero). Base sastre masculina [Vídeo]. YouTube.',
+      link: 'https://youtu.be/b3g9qtFgeLM',
+    },
+    {
+      referencia:
+        'SENA. (2021b, febrero 9). Ejemplo de tipos de tendido con diferentes características del material [Vídeo]. YouTube.',
+      link: 'https://youtu.be/AQuKp0yivEw',
+    },
+    {
+      referencia:
+        'SENA. (2021c, febrero 10). Trazo de chaqueta tipo sastre [Vídeo]. YouTube.',
+      link: 'https://youtu.be/B7qyE5ySUII',
+    },
+    {
+      referencia:
+        'SUMAR Capacitación. (2019). Curso corte y confección de prendas de vestir para niños y adultos. SUMAR Capacitación | Organismo Técnico de Capacitación.',
+      link:
+        'https://sumarcapacitacion.cl/programas-sociales/corte-y-confeccion-de-prendas-de-vestir-para-ninos-y-adultos/',
+    },
+    {
+      referencia:
+        'Únicosé. (2019). DIY Tutorial de camisa básica - Hcam1901. Únicosé La Moldería.',
+      link:
+        'https://www.moldesunicose.com/otros-paises/blog/diy-tutorial-de-camisa-basica-hcam1901-b469.html',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Abertura montada',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'aberturas del bajo o en los puños de una chaqueta o un abrigo sastre.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Afinar una costura',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'recortar las capas de tela en los márgenes de costura para que abulte menos la costura y quede aplastada.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Alfombrilla de corte',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'alfombrilla de goma con dibujo de cuadrícula que se utiliza para proteger la superficie de trabajo al cortar una tela.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Cutter giratorio',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'instrumento con cuchillas circulares intercambiables para cortar limpiamente bordes rectos en una tela.',
     },
     {
-      termino: 'Moda',
+      termino: 'Piquetes',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Línea corta en dirección perpendicular al molde, señalada en el patrón con el fin de facilitar la operación de confección al indicar ubicaciones y guiar al unir cortes.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Procedimiento',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'descripción precisa de los pasos para realizar un proceso. Es la respuesta al cómo hacer el proceso.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Proceso',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'descripción general de los pasos de una actividad o conjunto de operaciones.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Punzón',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'instrumento de punta afilada que se utiliza para perforar una tela antes de hacer un ojete o un ojal.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Talla',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'expresión normalizada que permite identificar a las personas para el uso de prendas de vestir.',
     },
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+      texto: 'SENA.  (2021). Cojín de sastre.',
+      tipo: 'PDF',
+      link: '/downloads/CF6_Anexo1_Cojines_Sastre_A4.pdf',
+    },
+    {
+      texto: 'SENA.  (2021).  El traje básico del sastre.',
+      tipo: 'PDF',
+      link: '/downloads/CF6_Anexo2_Construcción_Traje_Sastre.pdf',
+    },
+    {
+      texto: 'SENA.  (2021). Las entretelas y los forros en la sastrería.',
+      tipo: 'PDF',
+      link: '/downloads/CF6_Anexo3_Entretelas_Y_Forros.pdf',
+    },
+    {
+      texto: 'SENA.  (2021). Construcción de las pinzas y prenses.',
+      tipo: 'PDF',
+      link: '/downloads/CF6_Anexo4_Pinzas_Y_Prenses.pdf',
+    },
+    {
+      texto: 'SENA.  (2021).  Como hacer ojales manuales y presillas.',
+      tipo: 'PDF',
+      link: '/downloads/CF6_Anexo5_Ojales_Y_Presillas.pdf',
+    },
+    {
+      texto: '123 Dream it. (2015). Tutorial puntadas a mano [Vídeo]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      descarga: 'https://www.youtube.com/watch?v=ClIjTl9ltak',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'López, A. [PatternCos por Andrea López]. (2020). DIrecto IG | Cómo hacer un cojín de sastre [Vídeo]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link:
+        'https://www.youtube.com/watch?v=2B2eQ5jthLc&ab_channel=PatternCosporAndreaL%C3%B3pez',
+    },
+    {
+      texto:
+        'López, A. [PatternCos por Andrea López]. (2020). Directo IG | Cómo hacer un cojín de sastre. Modelo 2 [Vídeo]. YouTube.',
+      tipo: 'Video',
+      descarga:
+        'https://www.youtube.com/watch?v=H_XirctviKk&ab_channel=PatternCosporAndreaL%C3%B3pez',
+    },
+    {
+      texto: 'SENA. (2021). Interpretación de prendas, chaqueta cuello alto.',
+      tipo: 'PDF',
+      link: '/downloads/CF6_Anexo8_Cuello_Alto.pdf',
     },
   ],
   creditos: {
@@ -316,20 +435,19 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Julian Marquez Sanabria',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Sergo Omar Camacho Orduz',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
