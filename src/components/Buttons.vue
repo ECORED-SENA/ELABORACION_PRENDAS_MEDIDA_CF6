@@ -29,7 +29,7 @@
             img(:src="items[select].imagen")
           .col-8.d-flex
             p.mb-0(v-html="items[select].text")
-      figcaption {{ items[select].nota }}
+      figcaption(v-if="items[select].nota") {{ items[select].nota }}
 
 </template>
 
