@@ -401,6 +401,114 @@
       .col
         p.text-center.mb-0.text-white A continuación, se presenta un ejemplo para el análisis de la prueba de calce
 
+    LineaTiempoD.color-acento-contenido.mb-5
+      .row(numero="1" titulo="Prueba  calce")
+        .col-md-12.mb-4.mb-md-0
+          p.mb-5 Comprobar cómo asienta la costura delantera, verificando que ambos hombros estén alineados, al igual que las pinzas hacia el punto de pivote.
+          .row.justify-content-center
+            .col-md-5
+              figure
+                img(src="@/assets/curso/tema3-imagen13.svg", alt="")
+
+      .row(numero="2" titulo="Rectificar el patrón")
+        .col-md-12.mb-4.mb-md-0
+          p.mb-5 Comprobar cómo asienta la costura delantera, verificando que ambos hombros estén alineados, al igual que las pinzas hacia el punto de pivote.
+          .row.justify-content-center
+            .col-md-5
+              figure
+                img(src="@/assets/curso/tema3-imagen14.svg", alt="")
+
+
+      .row(numero="3" titulo="Corregir problemas de espalda en prototipo (caso 1)")
+        .col-md-4.mb-4.mb-md-0
+          figure.mb-4
+            img(src="@/assets/curso/tema3-imagen15.svg", alt="")
+          p
+            strong Problema
+            | : espalda que tira y se mueven los hombros, lo que generan arrugas desde la parte alta hacia las sisas. El ruedo de la espalda se ondula hacia arriba.
+            br
+            br
+            strong Causa
+            | : espalda corta.
+
+        .col-md-4.mb-4.mb-md-0
+          figure.mb-4
+            img(src="@/assets/curso/tema3-imagen16.svg", alt="")
+          p
+            strong Solución
+            | : hacer un corte horizontal por la espalda alta donde inicie la zona problemática en arrugas. Dentro del corte, introducir una pieza cortada en percal, dacrón o liencillo, ir bajando lentamente el corte de la espalda que contiene el ruedo hasta que desaparezcan las arrugas y el ruedo caiga recto.
+
+
+        .col-md-4.mb-4.mb-md-0
+          figure.mb-4
+            img(src="@/assets/curso/tema3-imagen17.svg", alt="")
+          p
+            strong Modificación en el patrón
+            | : se copia la nueva espalda con el ajuste y se coloca la sisa del antiguo patrón para que no sea necesario ajustar el perímetro de la manga.
+
+      .row(numero="4" titulo="Corregir problemas de espalda en prototipo (caso 2)")
+        .col-md-4.mb-4.mb-md-0
+          figure.mb-4
+            img(src="@/assets/curso/tema3-imagen18.svg", alt="")
+          p
+            strong Problema
+            | : una espalda con arruga horizontal similar a un pequeño globo, arrugas que bajan desde los hombros y el ruedo pueden ondularse.
+            br
+            br
+            strong Causa
+            | : espalda larga.
+
+        .col-md-4.mb-4.mb-md-0
+          figure.mb-4
+            img(src="@/assets/curso/tema3-imagen19.svg", alt="")
+          p
+            strong Solución
+            | : ir recogiendo el exceso de tela y fijarlo con alfileres o bastas iniciando siempre desde el centro hacia las sisas. Tener presente que las sisas no se deben modificar.
+
+        .col-md-4.mb-4.mb-md-0
+          figure.mb-4
+            img(src="@/assets/curso/tema3-imagen20.svg", alt="")
+          p
+            strong Modificación en el patrón
+            br
+            | : medir los centímetros recogidos en el centro de la espalda y dibujarlo en dos líneas para generar una pinza de corrección horizontal.  Se debe tener en cuenta que la sisa no se debe modificar.
+
+      .row(numero="5" titulo="Rectificar la espalda estrecha en prototipo")
+        .row
+          .col-md-4.mb-4.mb-md-0
+            figure.mb-4
+              img(src="@/assets/curso/tema3-imagen21.svg", alt="")
+            p
+              strong Problema
+              | : una espalda con arruga horizontal similar a un pequeño globo, arrugas que bajan desde los hombros y el ruedo pueden ondularse.
+              br
+              br
+              strong Causa
+              | : espalda estrecha.
+
+          .col-md-8.mb-4.mb-md-0
+            figure.mb-4
+              img(src="@/assets/curso/tema3-imagen22.svg", alt="")
+            p
+              strong Solución
+              | : descoser el centro de la espalda desde el escote hasta la cintura, para disminuir la bolsa que se presenta fijando de manera vertical la nueva línea de centro espalda hilvanada.
+
+        p Si después de realizar el paso anterior la sisa se encuentra tirando, se debe descoser, prender con un alfiler la copa y, por fuera, ir repartiendo o moviendo desde el espacio del centímetro de costura hasta corregirla.
+
+
+      .row(numero="6" titulo="Modificación en el patrón")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            figure.mb-4
+              img(src="@/assets/curso/tema3-imagen23.svg", alt="")
+
+          .col-md-6.mb-4.mb-md-0
+            figure.mb-4
+              img(src="@/assets/curso/tema3-imagen24.svg", alt="")
+        p Ubicar el papel calco bajo la espalda y trazar las nuevas líneas. Si se hizo reducción en el escote del centro espalda, se debe reducir la misma cantidad en la mitad del cuello; si fue aumento en la sisa de la espalda, se debe aumentar la misma cantidad en el perímetro de la manga.
+
+
+
     .h4 Proceso artesanal y técnico de un sastre
     p.mb-5 El patrón de la entretela se realiza utilizando el mismo de la pieza original. Para ello se debe tener en cuenta que no siempre toda la entretela quedará sujeta, en algunos modelos quedará sin costura en alguno de sus lados para facilitar el movimiento.
 
