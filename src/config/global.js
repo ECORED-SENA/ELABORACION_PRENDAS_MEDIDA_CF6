@@ -56,7 +56,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Técnicas básicas de sastrería',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -83,7 +83,8 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo:
+          'Proceso de levantamiento y construcción de básicos superiores femenino con técnica de sastrería',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -359,32 +360,32 @@ export default {
     {
       texto: 'SENA.  (2021). Cojín de sastre.',
       tipo: 'PDF',
-      link: '/downloads/CF6_Anexo1_Cojines_Sastre_A4.pdf',
+      descarga: '/downloads/CF6_Anexo1_Cojines_Sastre_A4.pdf',
     },
     {
       texto: 'SENA.  (2021).  El traje básico del sastre.',
       tipo: 'PDF',
-      link: '/downloads/CF6_Anexo2_Construcción_Traje_Sastre.pdf',
+      descarga: '/downloads/CF6_Anexo2_Construcción_Traje_Sastre.pdf',
     },
     {
       texto: 'SENA.  (2021). Las entretelas y los forros en la sastrería.',
       tipo: 'PDF',
-      link: '/downloads/CF6_Anexo3_Entretelas_Y_Forros.pdf',
+      descarga: '/downloads/CF6_Anexo3_Entretelas_Y_Forros.pdf',
     },
     {
       texto: 'SENA.  (2021). Construcción de las pinzas y prenses.',
       tipo: 'PDF',
-      link: '/downloads/CF6_Anexo4_Pinzas_Y_Prenses.pdf',
+      descarga: '/downloads/CF6_Anexo4_Pinzas_Y_Prenses.pdf',
     },
     {
       texto: 'SENA.  (2021).  Como hacer ojales manuales y presillas.',
       tipo: 'PDF',
-      link: '/downloads/CF6_Anexo5_Ojales_Y_Presillas.pdf',
+      descarga: '/downloads/CF6_Anexo5_Ojales_Y_Presillas.pdf',
     },
     {
       texto: '123 Dream it. (2015). Tutorial puntadas a mano [Vídeo]. YouTube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=ClIjTl9ltak',
+      link: 'https://www.youtube.com/watch?v=ClIjTl9ltak',
     },
     {
       texto:
@@ -397,13 +398,13 @@ export default {
       texto:
         'López, A. [PatternCos por Andrea López]. (2020). Directo IG | Cómo hacer un cojín de sastre. Modelo 2 [Vídeo]. YouTube.',
       tipo: 'Video',
-      descarga:
+      link:
         'https://www.youtube.com/watch?v=H_XirctviKk&ab_channel=PatternCosporAndreaL%C3%B3pez',
     },
     {
       texto: 'SENA. (2021). Interpretación de prendas, chaqueta cuello alto.',
       tipo: 'PDF',
-      link: '/downloads/CF6_Anexo8_Cuello_Alto.pdf',
+      descarga: '/downloads/CF6_Anexo8_Cuello_Alto.pdf',
     },
   ],
   creditos: {

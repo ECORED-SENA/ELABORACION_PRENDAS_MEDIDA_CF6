@@ -46,7 +46,7 @@
 
     .row
       .col.d-flex
-        a.anexo.mb-5(:href="obtenerLink('/downloads/CF6_Anexo6_Corte_De_Las_Telas.pdf')" target="_blank")
+        a.anexo.mb-5(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CFE7A758461AB5A9DC7AF8DE14F9412D?sequence=1" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -54,7 +54,7 @@
               strong Manual de patronaje básico e interpretación de diseños
               | . Conozca las formas o explicaciones metodológicas para trazar una manga sastre. Es importante tener en cuenta que cualquiera de los pasos o métodos aplicados llevan al mismo punto, en este caso, una manga sastre funcional. Ver p. 27.
       .col.d-flex
-        a.anexo.mb-5(:href="obtenerLink('/downloads/CF6_Anexo6_Corte_De_Las_Telas.pdf')" target="_blank")
+        a.anexo.mb-5(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CFE7A758461AB5A9DC7AF8DE14F9412D?sequence=1" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -63,7 +63,7 @@
               | . Conoce el trazo de una manga sastre con una explicación diferente o con unos pasos diferentes a los anteriores. Se debe tener en cuenta que el resultado, sin importar los pasos o la técnica que se utilice, al final va a ser el mismo, la única diferencia son las variaciones en los cortes que corresponden al diseño. Ver p. 44.
     .row
       .col.d-flex
-        a.anexo.mb-5(:href="obtenerLink('/downloads/CF6_Anexo6_Corte_De_Las_Telas.pdf')" target="_blank")
+        a.anexo.mb-5(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CFE7A758461AB5A9DC7AF8DE14F9412D?sequence=1" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -71,7 +71,7 @@
               strong Manual de patronaje básico e interpretación de diseños
               | . Conoce otro tipo de trazo para el desarrollo de una manga sastre. Es importante mencionar que en todas se identifica una hoja ancha y una hoja angosta, que corresponden a simera y bajera. Ver p. 46.
       .col.d-flex
-        a.anexo.mb-5(:href="obtenerLink('/downloads/CF6_Anexo6_Corte_De_Las_Telas.pdf')" target="_blank")
+        a.anexo.mb-5(href="https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=CFE7A758461AB5A9DC7AF8DE14F9412D?sequence=1" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -138,7 +138,7 @@
           .col-md-9
             ol.lista-ol--cuadro
               li
-                .lista-ol--cuadro__vineta
+                .lista-ol--cuadro__vineta.color-acento-botones
                   span a
                 p.mb-0
                   strong Trazo manga chaqueta sastre femenina
@@ -200,11 +200,11 @@
     .card-n-gray.p-5.mb-5
       ol.lista-ol--cuadro.mb-0
         li
-          .lista-ol--cuadro__vineta
+          .lista-ol--cuadro__vineta.color-acento-botones
             span b
           p.mb-0
             strong Despiece chaqueta sastre femenina
-      p.mb-5 A momento de despiezar una chaqueta sastre se deben tener en cuenta diferentes características, como qué tipo de acabado va a tener internamente, debido a que en algunos países, por la temporada o la estación, se le asignan diferentes acabados internos, los cuales van de la mano con el desarrollo de patronaje. En este caso, se va a hacer el despiece de una chaqueta sastre completamente forrada. Es importante aclarar que existen diferentes formas de hacer los acabados internos o refuerzos que va a llevar la chaqueta. Ver Figura 36 y Figura 37.
+      p.mb-5 Al momento de despiezar una chaqueta sastre se deben tener en cuenta diferentes características, como qué tipo de acabado va a tener internamente, debido a que en algunos países, por la temporada o la estación, se le asignan diferentes acabados internos, los cuales van de la mano con el desarrollo de patronaje. En este caso, se va a hacer el despiece de una chaqueta sastre completamente forrada. Es importante aclarar que existen diferentes formas de hacer los acabados internos o refuerzos que va a llevar la chaqueta. Ver Figura 36 y Figura 37.
 
       .row.mb-5
         .col-md-6
@@ -275,12 +275,12 @@
     p.mb-5 La sastrería a medida es el método tradicional de confección, que consiste en disponer distintas capas de refuerzo y estructura, entretelas y forro. Estas telas van cosidas y trabajadas con vapor para dar forma y estabilidad a la prenda (no se utilizan nunca entretelas adhesivas). Para lograr un ajuste perfecto y evitar luego cambios importantes en el patrón, se confecciona primero una prenda de prueba, generalmente de percal o de algodón. Tradicionalmente, las prendas sastre a medida se ajustan cómodamente al cuerpo y permiten libertad de movimiento.
 
     .h4 Elección de las telas
-    p.mb-5 La sastrería a medida es el método tradicional de confección, que consiste en disponer distintas capas de refuerzo y estructura, entretelas y forro. Estas telas van cosidas y trabajadas con vapor para dar forma y estabilidad a la prenda (no se utilizan nunca entretelas adhesivas). Para lograr un ajuste perfecto y evitar luego cambios importantes en el patrón, se confecciona primero una prenda de prueba, generalmente de percal o de algodón. Tradicionalmente, las prendas sastre a medida se ajustan cómodamente al cuerpo y permiten libertad de movimiento.
+    p.mb-5 El montado de prendas en la sastrería clásica requiere en su proceso de diferentes tipos de entretela según la prenda en la que se está trabajando; también necesita de guatas y forros, que son elegidos según la tela del diseño. Un tejido grueso necesita entretelas más gruesas que un tejido fino, aunque las técnicas utilizadas en la confección de la prenda sean las mismas.
 
     .row.justify-content-center.mb-0
       .col-md-10
         .row
-          .col-md-6
+          .col-md-6.align-self-center
             p.mb-0
               strong Tejidos gruesos
               | : Acá se presentan unos ejemplos. Estos tejidos se deben combinar con diferentes tipos de entretelas según la ubicación y la construcción que se busca.
@@ -298,7 +298,7 @@
     .row.justify-content-center.mb-0
       .col-md-10
         .row
-          .col-md-6
+          .col-md-6.align-self-center
             p.mb-0
               strong Tejidos finos
               | : la seda y el lino también son utilizados para trajes sastre; se debe elegir un grosor que dé estructura. Para guatear se utilizan materiales como la muselina, y para entretelas lo mejor es el cañamazo fino.
@@ -395,7 +395,7 @@
       .col
         p.text-center.mb-0.text-white A continuación, se presenta un ejemplo para la elaboración del toile
 
-    Buttons.mb-5(:items="items")
+    Buttons.mb-5(:items="items" colorTarjeta="#E8E8E8" colorButtons="boton-color-acento-contenido")
 
     .row.etiqueta.color-secundario.py-3.mb-5(style="border-bottom-left-radius: 0; border-bottom-right-radius: 0; border-top-right-radius: 25px; border-top-left-radius: 25px;")
       .col

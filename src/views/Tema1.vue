@@ -9,7 +9,7 @@
       h1 Tizado, trazo y corte
 
     p.mb-5
-      El tizado, trazo y corte consiste en toda la optimización o acomodación de moldes sobre el material textil, las técnicas y conocimientos para el área de prototipado y el corte de una prenda. El proceso de trazo y corte es donde se procede a estudiar y analizar el mejor aprovechamiento de los tejidos mediante técnicas de marcadas, de lo que depende, en gran parte, la calidad de la confección de la prenda; por tal motivo, constituye una parte importante en el costo total del producto. Ver Video 1.
+      | El tizado, trazo y corte consiste en toda la optimización o acomodación de moldes sobre el material textil, las técnicas y conocimientos para el área de prototipado y el corte de una prenda. El proceso de trazo y corte es donde se procede a estudiar y analizar el mejor aprovechamiento de los tejidos mediante técnicas de marcadas, de lo que depende, en gran parte, la calidad de la confección de la prenda; por tal motivo, constituye una parte importante en el costo total del producto. Ver Video 1.
 
     .titulo-sexto.color-acento-contenido
       h5 Video 1
@@ -56,7 +56,7 @@
       br
       span Herramientas para cortar
 
-    .tabla-b.color-acento-contenido.mb-5
+    .tabla-b.color-acento-botones.mb-5
       .tabla-b__header
         h5.mb-0 Herramientas corte
       table
@@ -78,7 +78,7 @@
           td
             p
               strong Cortadores térmicos
-              | : poseen dientes en las hojas, lo que crea un patrón de corte en zigzag. La función principal de este tipo de tijeras es la de evitar que se deshilache el textil después del corte.
+              | : estos cortadores se emplean para el corte de acrílico y textiles. Una vez cortado, el corte queda sellado lo que evita que se deshilache.
         tr
           td
             p
@@ -116,14 +116,14 @@
           th Ancho especial
           td Están elaborados a partir de 2,8 cm. En este grupo se encuentran: tapicería y decoración, etc.
 
-    p.mb-5 Para ejecutar un buen proceso de extendido es necesario reconocer las características del material textil para realizar una identificación previa y así comprender el comportamiento que puede tener durante el proceso de extendido, como encogimiento, deslizamiento, despiste en el hilado, etc. Según el análisis obtenido mediante la observación del textil, se puede determinar la ubicación de los moldes, las herramientas óptimas a utilizar, si requiere o no un reposo previo y la dirección. Los puntos que debes tener identificados son: 1. La urdimbre y la trama, 2. Hilo de tela y 3. Anchos de las telas (Ver Tabla 3).
+    p.mb-5 Una parte muy importante de este proceso del extendido son los <strong>orillos de tela</strong>, los cuales son bordes longitudinales de la tela, que están tejidos con una apariencia diferente y densa. Surgen como consecuencia de tratamientos de humectación y secado que sufren las telas una vez han sido tejidas para su estabilización. Se perfora el tejido desde el revés hacia el derecho, por lo que, por regla general, las rebabas de las perforaciones en los orillos indican el derecho de la tela. Ver Tabla 4.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 4
       br
       span Clasificación de orillos
 
-    .tabla-b.color-acento-contenido.mb-5
+    .tabla-b.color-acento-botones.mb-5
       .tabla-b__header
         h5.mb-0 Tipos de orillos
       table
@@ -336,7 +336,6 @@
       .py-2.py-md-3(titulo="Señalización")
         .row.justify-content-center.mb-3.py-5.card-n-gray
           .col-10
-            .h4(style="font-size: 24px") Señalizacion
             p Para tener claro los requerimientos desde el área de patronaje, es importante identificar y conocer la respectiva señalización de patrones
             .row.mb-4
               .col-md-4
@@ -383,7 +382,6 @@
       .py-2.py-md-3(titulo="Trazo bidireccional")
         .row.justify-content-center.mb-3.py-5.card-n-gray
           .col-10
-            .h4(style="font-size: 24px") Trazo bidireccional - vello en ambos sentidos
             p.mb-4 Este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza doble; se pueden ubicar los patrones en dos sentidos de dirección (Ver Figura 2). El material textil que se utilice no debe tener restricción con respecto a sus características.
             .titulo-sexto.color-acento-contenido
               h5 Figura 2
@@ -396,7 +394,6 @@
       .py-2.py-md-3(titulo="Trazo direccional")
         .row.justify-content-center.mb-3.py-5.card-n-gray
           .col-10
-            .h4(style="font-size: 24px") Trazo direccional
             p.mb-4 Vello en un solo sentido: este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza hacia arriba o hacia abajo; se deben colocar los patrones en una sola dirección. Este procedimiento de marcado tendrá por resultado un producto con la más elevada calidad, pues este tipo de trazo se usa para materiales que tienen restricción con respecto a características como brillo, cambio de color al tacto, estampados, dirección de pelo/vello, entre otras. Ver Figura 3.
             .titulo-sexto.color-acento-contenido
               h5 Figura 3
@@ -409,7 +406,6 @@
       .py-2.py-md-3(titulo="Trazo en sesgo")
         .row.justify-content-center.mb-3.py-5.card-n-gray
           .col-10
-            .h4(style="font-size: 24px") Trazo en sesgo - vello en diagonal
             p.mb-4 Este trazo/marcado se realiza cuando el hilo de tela tiene la cabeza inclinada en diagonal; se deben colocar los patrones en ese sentido de dirección. Ver Figura 4.
             .row
               .col-7
@@ -475,7 +471,10 @@
             p El tendido y marcación son una parte clave para el proceso de corte, este procedimiento requiere de precisión y técnica. Una vez identificados los requerimientos desde el área de patronaje, se procede a realizar el tendido y la marcación. Para ello, es importante seguir los siguientes pasos: identificar el ancho útil, la ubicación de patrones, la marcación y el corte.
 
           .row(numero="b" titulo="Ancho útil").py-2
-            p Es importante su identificación en el material textil antes de empezar a desarrollar el trazo, para lo cual se sugiere la identificación del ancho total del textil y la medición del orillo. Es importante indicar que el ancho útil se halla restando el orillo al ancho total de la tela.
+            p Es importante su identificación en el material textil antes de empezar a desarrollar el trazo, para lo cual se sugiere la identificación del
+              strong  ancho total del textil y la medición del orillo
+              | . Es importante indicar que el
+              strong  ancho útil se halla restando el orillo al ancho total de la tela.
 
           .row(numero="c" titulo="Ubicar patrones").py-2
             p.mb-3 La ubicación de los patrones es una tarea indispensable, y, una vez esto se hace, se debe analizar y alistar el tipo de extendido/tendido a trabajar y el ancho útil, a partir de los requerimientos del patrón desde el área de patronaje.
@@ -581,9 +580,8 @@
               li
                 i.lista-ul__vineta
                 p.mb-0
-                  strong Piel sintética:
-                  br
-                  | la piel sintética también cuenta con nap/pelusa. Es mucho más sencillo identificar la dirección del vello. Algunas tienen el vello más largo que otras, por eso es importante realizar el trazo, marcado y corte de forma adecuada; para ello es indispensable tener presente:
+                  strong Piel sintética
+                  | : la piel sintética también cuenta con nap/pelusa. Es mucho más sencillo identificar la dirección del vello. Algunas tienen el vello más largo que otras, por eso es importante realizar el trazo, marcado y corte de forma adecuada; para ello es indispensable tener presente:
                   br
                   br
                   span(style="margin-left: 30px") - Trazo direccional.
@@ -615,6 +613,15 @@
                   span(style="margin-left: 30px") - Realizar esto con cada una de las piezas de la prenda.
                   br
                   span(style="margin-left: 30px") - Una vez ubicados, se deben ir pintando y agregando margen de costura con tiza.
+
+    .titulo-sexto.color-acento-contenido
+      h5 Video 4
+      br
+      span Ejemplo de tipos de tendido con diferentes características del material
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/AQuKp0yivEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Nota. Tomado de SENA (2020c).
 
     .h3 Marcación y revisión
     p.mb-4 Para realizar la marcación y revisión, se debe partir desde un fusionado. Una vez se cortan la tela y la entretela, existen piezas programadas para entretelar, por eso se requiere utilizar fusionado con calor o con técnica de sastre. (Ver Figura 8 y Figura 9)

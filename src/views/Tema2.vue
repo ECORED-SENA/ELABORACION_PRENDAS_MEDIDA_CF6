@@ -85,7 +85,7 @@
         #t_2_2.titulo-segundo
           h2 2.2  Preparación y detalles en las piezas
 
-        p.mb-5 Durante la línea de tiempo desde la antigua Roma hasta el día de hoy, la sastrería ha ido combinando sus procesos artesanales con avances tecnológicos que facilitan su desempeño, como son las planchas de vapor, las máquinas de coser sin pedal, puntadas programables y otros sistemas más desarrollados. En concordancia con lo expuesto, los procesos operativos que se desarrollan en este módulo siguen el método de construcción de un sastre mezclado con técnicas utilizadas a nivel industrial para facilitar la realización de las prendas.
+        p.mb-5 La preparación de insumos y de detalles en las piezas es un proceso que se va realizando antes del armado, son pasos característicos en el quehacer de un sastre. Buscan no solo la adaptación perfecta de la tela en el cuerpo, sino que cada insumo se adapte de forma precisa en el momento de adherirse a la prenda o pieza textil. Existen varios pasos que se deben seguir para su preparación, entre ellos se encuentran la realización de cambrado del cierre, planchado de costuras y pinzas, y colocación de broches. A continuación, se puede observar información relacionada:
 
         .row.justify-content-center
           .col-lg-9
@@ -140,7 +140,7 @@
                   .col-4
                     img(src='@/assets/curso/tema2-imagen17.svg' alt='AvatarTop')
                   .col-8
-                    p.mb-0 Se inicia humedeciendo la prenda y ubicándola sobre una pieza plana de madera, mármol o fornica.
+                    p.mb-0.pe-4 Se inicia humedeciendo la prenda y ubicándola sobre una pieza plana de madera, mármol o fornica.
                       br
                       br
                       | Los dedos deben anteponerse cerca de la plancha para ir presionando la costura y así evitar imperfecciones en el planchado.
@@ -171,7 +171,7 @@
                   .col-4
                     img(src='@/assets/curso/tema2-imagen21.svg' alt='AvatarTop')
                   .col-8
-                    p.mb-0 Ubica el broche evitando que sobrepase el borde de la pieza y que el ojo superior apoye en la costura, si la hay. Cubrir ambos ojos con puntadas seguidas del centro hacia afuera. No cortar el hilo.
+                    p.mb-0.pe-4 Ubica el broche evitando que sobrepase el borde de la pieza y que el ojo superior apoye en la costura, si la hay. Cubrir ambos ojos con puntadas seguidas del centro hacia afuera. No cortar el hilo.
 
             .tarjeta-avatar-b.mb-5
               img.number(src='@/assets/curso/tema2-imagen20.svg' alt='AvatarTop')
