@@ -470,7 +470,6 @@
             img(src="@/assets/curso/tema3-imagen20.svg", alt="")
           p
             strong Modificación en el patrón
-            br
             | : medir los centímetros recogidos en el centro de la espalda y dibujarlo en dos líneas para generar una pinza de corrección horizontal.  Se debe tener en cuenta que la sisa no se debe modificar.
 
       .row(numero="5" titulo="Rectificar la espalda estrecha en prototipo")
